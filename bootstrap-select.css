@@ -104,8 +104,8 @@ select.selectpicker {
   display: inline-block;
   overflow: hidden;
   width: 100%;
-  font-weight: bold;
   text-align: right;
+
 }
 .bootstrap-select.btn-group .dropdown-toggle .caret {
   position: absolute;
@@ -148,7 +148,6 @@ select.selectpicker {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-    font-weight: bold;
 }
 .bootstrap-select.btn-group .dropdown-menu li a.opt {
   position: relative;
@@ -159,7 +158,6 @@ select.selectpicker {
 }
 .bootstrap-select.btn-group .dropdown-menu li a span.text {
   display: inline-block;
-  font-weight: b;
 }
 .bootstrap-select.btn-group .dropdown-menu li small {
   padding-left: 0.5em;
